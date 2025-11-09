@@ -1,27 +1,18 @@
 // ============================================
-// HABIT TRACKER CLI - CHALLENGE 3
+// HABIT TRACKER MEMBACA AL-QUR'AN - CHALLENGE 3
 // ============================================
-// NAMA: [Isi nama Anda]
-// KELAS: [Isi kelas Anda]
-// TANGGAL: [Isi tanggal pengerjaan]
+// NAMA: [Cecep Abdul Hakim]
+// KELAS: [WPH-REP-129]
+// TANGGAL: [09-11-2025]
 // ============================================
 
 // TODO: Import module yang diperlukan
 // HINT: readline, fs, path
 
-
-
-
 // TODO: Definisikan konstanta
 // HINT: DATA_FILE, REMINDER_INTERVAL, DAYS_IN_WEEK
 
-
-
-
 // TODO: Setup readline interface
-
-
-
 
 // ============================================
 // USER PROFILE OBJECT
@@ -34,9 +25,6 @@
 // TODO: Tambahkan method updateStats(habits)
 // TODO: Tambahkan method getDaysJoined()
 
-
-
-
 // ============================================
 // HABIT CLASS
 // ============================================
@@ -47,9 +35,6 @@
 // - Method isCompletedThisWeek()
 // - Method getProgressPercentage()
 // - Method getStatus()
-
-
-
 
 // ============================================
 // HABIT TRACKER CLASS
@@ -71,33 +56,18 @@
 // - Method loadFromFile()
 // - Method clearAllData()
 
-
-
-
 // ============================================
 // HELPER FUNCTIONS
 // ============================================
 // TODO: Buat function askQuestion(question)
 
-
-
-
 // TODO: Buat function displayMenu()
 
-
-
-
 // TODO: Buat async function handleMenu(tracker)
-
-
-
 
 // ============================================
 // MAIN FUNCTION
 // ============================================
 // TODO: Buat async function main()
-
-
-
 
 // TODO: Jalankan main() dengan error handling
