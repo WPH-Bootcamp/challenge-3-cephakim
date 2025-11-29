@@ -1,0 +1,63 @@
+{
+  "user": {
+    "name": "Cecep Abdul Hakim",
+    "joinDate": "2025-11-09T16:00:06.604Z",
+    "totalHabits": 5,
+    "completedThisWeek": 0
+  },
+  "habits": [
+    {
+      "id": "1762704573361-770",
+      "name": "Tilawah Juz 29",
+      "targetFrequency": 7,
+      "category": "Tilawah",
+      "completions": [
+        "2025-11-09T16:11:22.958Z"
+      ],
+      "createdAt": "2025-11-09T16:09:33.361Z",
+      "streak": 1
+    },
+    {
+      "id": "1762704874516-1469",
+      "name": "Tilawah Surat Al-Baqarah",
+      "targetFrequency": 10,
+      "category": "Tilawah",
+      "completions": [
+        "2025-11-09T16:16:06.009Z"
+      ],
+      "createdAt": "2025-11-09T16:14:34.516Z",
+      "streak": 1
+    },
+    {
+      "id": "1762705227871-8039",
+      "name": "Dzikir pagi dan petang",
+      "targetFrequency": 14,
+      "category": "Dzikir",
+      "completions": [
+        "2025-11-09T16:20:56.362Z"
+      ],
+      "createdAt": "2025-11-09T16:20:27.871Z",
+      "streak": 1
+    },
+    {
+      "id": "1762705406235-1676",
+      "name": "Hafalan Juz 30",
+      "targetFrequency": 1,
+      "category": "Hafalan",
+      "completions": [],
+      "createdAt": "2025-11-09T16:23:26.235Z",
+      "streak": 0
+    },
+    {
+      "id": "1762707426218-9968",
+      "name": "Dzikir setelah shalat fardhu",
+      "targetFrequency": 35,
+      "category": "Dzikir",
+      "completions": [
+        "2025-11-09T16:57:57.879Z"
+      ],
+      "createdAt": "2025-11-09T16:57:06.219Z",
+      "streak": 1
+    }
+  ]
+}
